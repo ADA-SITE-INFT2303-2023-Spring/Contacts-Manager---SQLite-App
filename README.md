@@ -1,1 +1,1 @@
-# Contacts-Manager---SQLite-App
+# Contacts Manager - SQLite App
